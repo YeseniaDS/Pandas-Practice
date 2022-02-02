@@ -1,7 +1,7 @@
 # pandas_practice
 This is a practice of pandas.
 
-__Top 4 Repositories on GitHub to Learn Pandas__
+* __Top 4 Repositories on GitHub to Learn Pandas__
 
 Some of the most popular repositories to brush up on Pandas for beginners and experts alike.
 
